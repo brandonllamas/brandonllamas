@@ -19,3 +19,5 @@ Hello ,welcome to my profile.
 
 I am web and movil junior developer 
 
+
+<strong>the unic limit is your mind</strong>
