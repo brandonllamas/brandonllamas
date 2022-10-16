@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my name is Brandon Llamas 
 
 <!--
 **brandonllamas/brandonllamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello ,welcome to my profile.
 
-I am web and movil junior developer 
-
+⚡I'm web and movil junior developer <br>
+⚡I'm pentester web
 
 <strong>the unic limit is your mind</strong>
