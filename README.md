@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello ,welcome to my profile.
 
-⚡I'm web and movil junior developer <br>
-⚡I'm pentester web
+⚡I'm web and movil Senior developer <br>
+⚡I'm pentester 
 
 <strong>the unic limit is your mind</strong>
