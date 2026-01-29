@@ -21,3 +21,7 @@ Hello ,welcome to my profile.
 ⚡I'm pentester 
 
 <strong>the unic limit is your mind</strong>
+
+<p align="center">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonllamas&theme=radical&layout=compact&hide=css,html" />
+</p>
