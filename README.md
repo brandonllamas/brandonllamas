@@ -98,8 +98,14 @@
 ## 📈 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brandonllamas&show_icons=true&rank_icon=github&hide_border=true" height="160" />
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonllamas&hide_border=true" height="160" />
+</p>
+
+
+<!-- Activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brandonllamas&hide_border=true" />
 </p>
 
 
