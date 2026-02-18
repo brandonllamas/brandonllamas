@@ -92,7 +92,6 @@
 - ✅ **Introduction to Cybersecurity**  
 - ✅ **Personalización de entorno Linux**  
 - ✅ **Master Desarrollo Android con Java y Kotlin**  
-> *(Si quieres, pégame aquí la lista completa de tu LinkedIn y te la dejo 1:1 con el mismo formato pro.)*
 
 ---
 
@@ -100,12 +99,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brandonllamas&show_icons=true&rank_icon=github&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonllamas&hide_border=true" height="160" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonllamas&layout=compact&hide_border=true" height="140" />
-</p>
+
 
 <!-- Activity graph -->
 <p align="center">
