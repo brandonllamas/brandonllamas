@@ -21,9 +21,7 @@
   <a href="https://github.com/brandonllamas">
     <img src="https://img.shields.io/badge/GitHub-brandonllamas-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:brandonllamaslarios@gmail.com">
-    <img src="https://img.shields.io/badge/Email-brandonllamaslarios%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
   <a href="https://doc.darkmoon.link/">
     <img src="https://img.shields.io/badge/Portfolio-doc.darkmoon.link-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -98,7 +96,7 @@
 
 ---
 
-## 📈 GitHub Stats (Auto)
+## 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brandonllamas&show_icons=true&rank_icon=github&hide_border=true" height="160" />
@@ -116,14 +114,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brandonllamas/brandonllamas/output/snake.svg" alt="snake animation" />
-</p>
-
-> **Enable snake animation:**  
-> Create a workflow with `Platane/snk` that outputs `snake.svg` to the `output` branch.
 
 ---
 
